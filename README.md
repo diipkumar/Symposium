@@ -7,8 +7,8 @@ The best part of this app it doesn't require any server. It has 3rd party tools 
 ## Play store Link : 
 https://play.google.com/store/apps/details?id=com.symposiums.app&hl=en
 
-![Screenshot](https://github.com/diipkumar/BuyMe-ECommerce/blob/master/screenshot/1.webp)
-![Screenshot](https://github.com/diipkumar/BuyMe-ECommerce/blob/master/screenshot/2.webp)
-![Screenshot](https://github.com/diipkumar/BuyMe-ECommerce/blob/master/screenshot/3.webp)
-![Screenshot](https://github.com/diipkumar/BuyMe-ECommerce/blob/master/screenshot/4.webp)
-![Screenshot](https://github.com/diipkumar/BuyMe-ECommerce/blob/master/screenshot/5.webp)
+![Screenshot](https://github.com/diipkumar/Symposium/blob/master/1.webp)
+![Screenshot](https://github.com/diipkumar/Symposium/blob/master/2.webp)
+![Screenshot](https://github.com/diipkumar/Symposium/blob/master/3.webp)
+![Screenshot](https://github.com/diipkumar/Symposium/blob/master/4.webp)
+![Screenshot](https://github.com/diipkumar/Symposium/blob/master/5.webp)
