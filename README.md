@@ -1,5 +1,14 @@
 # Symposium- Internship App
-It is an online details fetcher app for college students in India. It fetches all internship , competitions, coding competitions, event based on cities and show it to the user.
+
+Symposium/Internship app basically helps you find following things:
+
+1) The non technical/technical events ,
+2) Finding online/offline paid internships work,
+3) coding competitions calendar,
+4) Hackathon Events,
+5) training for attending interviews.
+
+Symposium/Internship app also helps to save future events as favorite and can added as reminder so you don't miss any opportunity.
 
 ## Technical Details:
 The best part of this app it doesn't require any server. It has 3rd party tools which fetch the data from various website legally and display the data.
